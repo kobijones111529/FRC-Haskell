@@ -1,0 +1,8 @@
+resolver: lts-19.25
+packages:
+- .
+extra-deps:
+- c2hs-0.28.8
+extra-include-dirs:
+- ni-libraries-2018.4.1-headers
+- .

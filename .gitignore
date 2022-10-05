@@ -1,0 +1,10 @@
+.stack-work/
+*~
+
+result
+result-*
+
+dist
+dist-*
+
+**/.DS_Store
